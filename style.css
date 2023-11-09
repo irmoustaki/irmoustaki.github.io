@@ -1,0 +1,33 @@
+body {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #FFFFFF;
+}
+
+td {
+  padding: 10px;
+}
+
+.nopad td {
+    padding: 0px;
+}
+
+a:link {
+  color: #333333;
+  }
+
+a:visited {
+  color: #333333;
+  }
+
+hr {
+   border: none;
+   height: 2px;
+   color: #CC0000;
+   background-color: #CC0000;
+}
+
+div.smallcenter{
+  font-size: 12px;
+  text-align: center;
+}
